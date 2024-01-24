@@ -1,0 +1,183 @@
+.frame-child83 {
+  border: 0;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #c4c4c4;
+}
+.akhada-test-page-inner {
+  position: absolute;
+  width: calc(100% - 2px);
+  top: 0.88rem;
+  right: 0.06rem;
+  left: 0.06rem;
+  height: 59.56rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.63rem;
+  box-sizing: border-box;
+}
+.frame-child84 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #ef9351;
+}
+.akhada-test-page-child {
+  position: absolute;
+  width: calc(100% - 4px);
+  top: 103.44rem;
+  right: 0.19rem;
+  left: 0.06rem;
+  height: 38.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.63rem;
+  box-sizing: border-box;
+}
+.frame-child85 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #d29a58;
+}
+.akhada-test-page-inner1 {
+  position: absolute;
+  width: calc(100% - 4px);
+  top: 146.75rem;
+  right: 0.19rem;
+  left: 0.06rem;
+  height: 48.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.63rem;
+  box-sizing: border-box;
+}
+.frame-child86 {
+  position: absolute;
+  top: 0;
+  left: 46.18rem;
+  width: 43.36rem;
+  height: 23.38rem;
+}
+.frame-child87 {
+  align-self: stretch;
+  position: relative;
+  background-color: #c4c4c4;
+  height: 23.38rem;
+}
+.rectangle-wrapper {
+  position: absolute;
+  height: calc(100% + 21.5px);
+  width: calc(100% - 905.6px);
+  top: -0.67rem;
+  right: 57.27rem;
+  bottom: -0.67rem;
+  left: -0.67rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.67rem;
+  box-sizing: border-box;
+}
+.frame-child88 {
+  position: absolute;
+  top: 0;
+  left: 93.22rem;
+  background-color: #c4c4c4;
+  width: 43.36rem;
+  height: 23.38rem;
+}
+.frame-child89 {
+  position: absolute;
+  top: 23.84rem;
+  left: 140.27rem;
+  background: linear-gradient(180deg, #000, transparent);
+  width: 140.38rem;
+  height: 4.64rem;
+  transform: rotate(-179.95deg);
+  transform-origin: 0 0;
+}
+.attack2,
+.parcha2,
+.vanraksash {
+  position: absolute;
+  top: -0.43rem;
+  left: 0.13rem;
+  font-weight: 600;
+}
+.attack2,
+.parcha2 {
+  top: -0.35rem;
+  left: 46.44rem;
+  font-size: 1.76rem;
+}
+.parcha2 {
+  top: -0.41rem;
+  left: 93.21rem;
+  font-size: 1.91rem;
+}
+.vanraksash-parent,
+.vector-parent {
+  position: absolute;
+  top: 21.13rem;
+  left: 0.25rem;
+  width: 101.56rem;
+  height: 1.88rem;
+  overflow-x: auto;
+}
+.vector-parent {
+  top: 70.88rem;
+  left: 0.69rem;
+  width: 99.75rem;
+  height: 23.38rem;
+}
+.more-for-you {
+  position: absolute;
+  top: 67.5rem;
+  left: 0.69rem;
+  font-size: 2.29rem;
+  font-weight: 600;
+  color: #ff6b00;
+  text-align: center;
+}
+.akhada2 {
+  position: absolute;
+  top: 61.15rem;
+  left: 0.63rem;
+  font-size: 2.79rem;
+}
+.documentry {
+  flex: 1;
+  position: relative;
+}
+.documentry-wrapper {
+  position: absolute;
+  top: 60.38rem;
+  left: calc(50% + 530px);
+  width: 19.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.69rem;
+  box-sizing: border-box;
+  font-size: 2.59rem;
+}
+.akhada-test-page {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  height: 198.31rem;
+  text-align: left;
+  font-size: 1.83rem;
+  color: #fff;
+  font-family: Inter;
+}
